@@ -9,6 +9,8 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
+//IMPLEMENTAR GAMEMINDTO, GAME REPOSITORY, GAME SERVICE E GAME CONTROLLER
+
 @Entity
 @Table(name = "tb_game")
 public class Game {
